@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import SubHeader from "../../components/atoms/subheader/inde";
 import Video from "../../components/moleculs/video/video";
 
 import style from "./index.module.css";
