@@ -44,6 +44,7 @@
   font-size: 48px;
   margin: 0;
   line-height: 52px;
+  color: #df40e6;
 }
 
 .textBlock h3 {
@@ -73,22 +74,19 @@
 @media (max-width: 768px) {
   .textBlock {
     z-index: 1;
-    justify-content: space-between;
+    justify-content: flex-start;
     text-align: start;
   }
 
   .textBlock h1 {
     font-size: 34px;
     width: 200px;
-    order: 2;
-    margin-bottom: 50px;
     z-index: 1;
   }
 
   .textBlock h3 {
     text-transform: none;
     z-index: 1;
-    order: 1;
     font-size: 22px;
     width: 300px;
     line-height: 22px;
@@ -96,7 +94,6 @@
 
   .textBlock p {
     z-index: 1;
-    order: 3;
     font-size: 14px;
   }
 }

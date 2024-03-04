@@ -26,7 +26,7 @@ const Home = () => {
             className={style.button}
             target="_blank"
           >
-            <Button text={"Написать мне в инстаграмм"} />
+            <Button text={"Написать мне в инстаграм"} />
           </Link>
         </div>
       </div>
