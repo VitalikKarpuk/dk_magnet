@@ -12,7 +12,8 @@
 }
 
 .red {
-  background-color: #df40e6;
+  background-color: #0029ff;
+  color: #ffffff;
 }
 
 .button:disabled {
